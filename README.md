@@ -1,6 +1,7 @@
 # NeilujD Homebrew tap
 
 ```sh
+brew trust --cask neilujd/tap/jean-notch
 brew install --cask neilujd/tap/jean-notch
 ```
 
